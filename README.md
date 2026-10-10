@@ -54,3 +54,42 @@ The goal is to identify business trends, investigate potential profitability iss
 - **Sales Contribution:** 99.78%
 
 **Insight:** Customers who placed multiple orders accounted for nearly all sales during the analyzed period. This measures repeat purchasing within the dataset, not long-term customer retention.
+
+
+
+## Skills Demonstrated
+
+### Data Preparation & Quality Assessment
+- CSV data exploration
+- Missing value detection using COUNTBLANK
+- Data cleaning validation using TRIM and EXACT
+- Unique record analysis using COUNTUNIQUE
+- Initial duplicate assessment
+
+### Data Analysis
+- Sales and profit analysis
+- Profit margin calculations
+- Product and regional profitability analysis
+- Discount analysis
+- Customer segmentation
+- Repeat purchase analysis
+
+### Google Sheets & Excel
+- Pivot Tables
+- SUM, SUMIF, COUNTIF, COUNTA, COUNTUNIQUE
+- IF statements and conditional logic
+- Cross-sheet cell references
+- Percentage calculations
+
+### Business Analytics
+- Defining business questions
+- Interpreting KPIs
+- Identifying potential causes of losses
+- Developing data-driven recommendations
+- Documenting analytical findings
+
+## Next Steps
+- Analyze monthly and yearly sales trends
+- Create data visualizations
+- Build an interactive Tableau dashboard
+- Expand the analysis using SQL and Python
