@@ -88,8 +88,9 @@ The goal is to identify business trends, investigate potential profitability iss
 - Developing data-driven recommendations
 - Documenting analytical findings
 
-## Next Steps
-- Analyze monthly and yearly sales trends
-- Create data visualizations
-- Build an interactive Tableau dashboard
-- Expand the analysis using SQL and Python
+
+## Data Visualizations
+
+### Profit by Product Sub-Category
+
+![Profit by Product Sub-Category](profit_by_subcategory.png)
